@@ -15,7 +15,7 @@
 </details>
 
 ### Submission
-- [Project Report](): Board games EDA
+- [Project Report](): MonkeyPox
 - [Jupyter Notebook]()
 - [Data Source]()
 
